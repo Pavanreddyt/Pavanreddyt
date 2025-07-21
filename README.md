@@ -61,12 +61,3 @@
 
 ---
 
-<!-- Profile dynamically updated -->
-"""
-
-file_path = "/mnt/data/README_pavanred.md"
-
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
