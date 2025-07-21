@@ -54,10 +54,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pavanred&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
----
 
-## 🔢 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=pavanred&icon=5&color=6)](https://visitcount.itsvg.in)
-
----
 
