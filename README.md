@@ -1,6 +1,4 @@
-# Save the customized README.md content into a downloadable file
 
-readme_content = """<!-- README.md -->
 
 <h1 align="center">👋 Hi, I'm Pavan Reddy!</h1>
 <p align="center">
